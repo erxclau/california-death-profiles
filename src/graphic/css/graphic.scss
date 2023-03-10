@@ -1,1 +1,30 @@
 // Graphics CSS goes here
+.y-axis .tick text, .x-axis .tick text, text.label {
+  font-family: sans-serif;
+}
+
+.x-axis .tick:nth-child(odd) {
+  display: none;
+}
+
+.figure__legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.legend__item {
+  display: flex;
+  margin-bottom: 5px;
+  gap: 5px;
+}
+
+.legend__color {
+  min-width: 10px;
+  min-height: 10px;
+  border: 1px solid black;
+}
+
+.legend__label {
+  font-size: 11px;
+}

@@ -1,35 +1,23 @@
 {
   "entries": {
-    "index.html": {
+    "localities-total.html": {
       "hed": "Headline",
-      "dek": "This is a short description",
-      "byline": "Firstname Lastname",
-      "source": "This is the source",
-      "note": "This is a note",
-      "illustrator_output_filename": "output.html"
+      "source": "California Department of Public Health"
+    },
+    "localities-causes.html": {
+      "hed": "Headline",
+      "source": "California Department of Public Health"
+    },
+    "counties-total.html": {
+      "hed": "Headline",
+      "source": "California Department of Public Health"
+    },
+    "counties-causes.html": {
+      "hed": "Headline",
+      "source": "California Department of Public Health"
     }
   },
-  "fetch": [
-    {
-      "type": "doc",
-      "id": "",
-      "output": "",
-      "auth": "~/.daily-google-services.json"
-    },
-    {
-      "type": "sheet",
-      "id": "",
-      "sheetId": "0",
-      "output": "",
-      "auth": "~/.daily-google-services.json"
-    },
-    {
-      "type": "json",
-      "id": "",
-      "output": "",
-      "auth": "~/.daily-google-services.json"
-    }
-  ],
+  "fetch": [],
   "deployment": {
     "url": "https://test.michigandaily.com/tmp/key/",
     "region": "us-east-2",

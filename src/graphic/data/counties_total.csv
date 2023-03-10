@@ -1,0 +1,364 @@
+county,year,count
+Alameda,1989,17304
+Alameda,1990,16623
+Alameda,1991,16908
+Alameda,1992,16554
+Alameda,1993,16989
+Alameda,1994,16915
+Alameda,1995,17033
+Alameda,1996,16672
+Alameda,1997,16444
+Alameda,1998,16869
+Alameda,1999,16865
+Alameda,2000,16831
+Alameda,2001,16727
+Alameda,2002,16387
+Alameda,2003,16597
+Alameda,2004,15815
+Alameda,2005,15898
+Alameda,2006,15683
+Alameda,2007,15801
+Alameda,2008,15680
+Alameda,2009,15093
+Alameda,2010,15141
+Alameda,2011,15454
+Alameda,2012,15969
+Alameda,2013,16270
+Alameda,2014,16053
+Alameda,2015,16632
+Alameda,2016,16789
+Alameda,2017,17001
+Alameda,2018,16857
+Alameda,2019,17179
+Alameda,2020,19046
+Alameda,2021,19076
+Contra Costa,1989,8232
+Contra Costa,1990,7959
+Contra Costa,1991,8345
+Contra Costa,1992,7992
+Contra Costa,1993,8599
+Contra Costa,1994,8554
+Contra Costa,1995,9104
+Contra Costa,1996,9117
+Contra Costa,1997,9138
+Contra Costa,1998,9537
+Contra Costa,1999,9359
+Contra Costa,2000,9568
+Contra Costa,2001,9801
+Contra Costa,2002,10049
+Contra Costa,2003,9728
+Contra Costa,2004,9574
+Contra Costa,2005,9716
+Contra Costa,2006,9739
+Contra Costa,2007,9728
+Contra Costa,2008,9821
+Contra Costa,2009,9816
+Contra Costa,2010,9751
+Contra Costa,2011,10032
+Contra Costa,2012,10241
+Contra Costa,2013,10146
+Contra Costa,2014,10319
+Contra Costa,2015,11076
+Contra Costa,2016,10927
+Contra Costa,2017,11260
+Contra Costa,2018,11056
+Contra Costa,2019,11173
+Contra Costa,2020,12399
+Contra Costa,2021,12795
+Marin,1989,3071
+Marin,1990,2919
+Marin,1991,3107
+Marin,1992,2927
+Marin,1993,3257
+Marin,1994,3213
+Marin,1995,3223
+Marin,1996,3143
+Marin,1997,3248
+Marin,1998,3249
+Marin,1999,3124
+Marin,2000,3238
+Marin,2001,3280
+Marin,2002,3236
+Marin,2003,3187
+Marin,2004,3000
+Marin,2005,3187
+Marin,2006,3156
+Marin,2007,3177
+Marin,2008,3146
+Marin,2009,2986
+Marin,2010,3173
+Marin,2011,3276
+Marin,2012,3288
+Marin,2013,3302
+Marin,2014,3288
+Marin,2015,3446
+Marin,2016,3372
+Marin,2017,3461
+Marin,2018,3404
+Marin,2019,3456
+Marin,2020,3725
+Marin,2021,3820
+Napa,1989,1013
+Napa,1990,1072
+Napa,1991,1076
+Napa,1992,1077
+Napa,1993,1092
+Napa,1994,1187
+Napa,1995,1171
+Napa,1996,1167
+Napa,1997,1190
+Napa,1998,1219
+Napa,1999,1181
+Napa,2000,1271
+Napa,2001,1303
+Napa,2002,1276
+Napa,2003,1309
+Napa,2004,1263
+Napa,2005,1213
+Napa,2006,1207
+Napa,2007,1171
+Napa,2008,1152
+Napa,2009,1212
+Napa,2010,1144
+Napa,2011,1198
+Napa,2012,1198
+Napa,2013,1231
+Napa,2014,1176
+Napa,2015,1273
+Napa,2016,1258
+Napa,2017,1322
+Napa,2018,1190
+Napa,2019,1256
+Napa,2020,1273
+Napa,2021,1383
+Sacramento,1989,10918
+Sacramento,1990,11178
+Sacramento,1991,11397
+Sacramento,1992,11093
+Sacramento,1993,11709
+Sacramento,1994,11952
+Sacramento,1995,12192
+Sacramento,1996,12199
+Sacramento,1997,12376
+Sacramento,1998,12526
+Sacramento,1999,12830
+Sacramento,2000,12755
+Sacramento,2001,13171
+Sacramento,2002,13430
+Sacramento,2003,13619
+Sacramento,2004,13473
+Sacramento,2005,13997
+Sacramento,2006,13991
+Sacramento,2007,13241
+Sacramento,2008,13602
+Sacramento,2009,13527
+Sacramento,2010,13963
+Sacramento,2011,14361
+Sacramento,2012,14431
+Sacramento,2013,14630
+Sacramento,2014,15110
+Sacramento,2015,15933
+Sacramento,2016,15538
+Sacramento,2017,16612
+Sacramento,2018,16383
+Sacramento,2019,16429
+Sacramento,2020,18794
+Sacramento,2021,19311
+San Francisco,1989,16224
+San Francisco,1990,15769
+San Francisco,1991,16190
+San Francisco,1992,15872
+San Francisco,1993,15610
+San Francisco,1994,15603
+San Francisco,1995,15485
+San Francisco,1996,14678
+San Francisco,1997,13414
+San Francisco,1998,13130
+San Francisco,1999,13052
+San Francisco,2000,12664
+San Francisco,2001,12669
+San Francisco,2002,12339
+San Francisco,2003,12097
+San Francisco,2004,11570
+San Francisco,2005,11881
+San Francisco,2006,11475
+San Francisco,2007,11410
+San Francisco,2008,11225
+San Francisco,2009,10924
+San Francisco,2010,10868
+San Francisco,2011,11113
+San Francisco,2012,11177
+San Francisco,2013,11218
+San Francisco,2014,10714
+San Francisco,2015,11302
+San Francisco,2016,11518
+San Francisco,2017,11690
+San Francisco,2018,11548
+San Francisco,2019,11659
+San Francisco,2020,12622
+San Francisco,2021,12991
+San Mateo,1989,8720
+San Mateo,1990,8590
+San Mateo,1991,8578
+San Mateo,1992,8725
+San Mateo,1993,8894
+San Mateo,1994,8791
+San Mateo,1995,9020
+San Mateo,1996,8900
+San Mateo,1997,8792
+San Mateo,1998,9023
+San Mateo,1999,8933
+San Mateo,2000,8504
+San Mateo,2001,8618
+San Mateo,2002,8484
+San Mateo,2003,8588
+San Mateo,2004,8199
+San Mateo,2005,8415
+San Mateo,2006,8247
+San Mateo,2007,8146
+San Mateo,2008,7945
+San Mateo,2009,8122
+San Mateo,2010,8350
+San Mateo,2011,8346
+San Mateo,2012,8412
+San Mateo,2013,8394
+San Mateo,2014,8232
+San Mateo,2015,8685
+San Mateo,2016,8545
+San Mateo,2017,8667
+San Mateo,2018,8702
+San Mateo,2019,8529
+San Mateo,2020,9082
+San Mateo,2021,9217
+Santa Clara,1989,14139
+Santa Clara,1990,13814
+Santa Clara,1991,13845
+Santa Clara,1992,13870
+Santa Clara,1993,14560
+Santa Clara,1994,14597
+Santa Clara,1995,14549
+Santa Clara,1996,14947
+Santa Clara,1997,14773
+Santa Clara,1998,15143
+Santa Clara,1999,15241
+Santa Clara,2000,14743
+Santa Clara,2001,14721
+Santa Clara,2002,14531
+Santa Clara,2003,14396
+Santa Clara,2004,14093
+Santa Clara,2005,14609
+Santa Clara,2006,14846
+Santa Clara,2007,14561
+Santa Clara,2008,14812
+Santa Clara,2009,14887
+Santa Clara,2010,14990
+Santa Clara,2011,15139
+Santa Clara,2012,15689
+Santa Clara,2013,15863
+Santa Clara,2014,16208
+Santa Clara,2015,16718
+Santa Clara,2016,16862
+Santa Clara,2017,17300
+Santa Clara,2018,17078
+Santa Clara,2019,17027
+Santa Clara,2020,19197
+Santa Clara,2021,19034
+Santa Cruz,1989,1947
+Santa Cruz,1990,1887
+Santa Cruz,1991,1908
+Santa Cruz,1992,1835
+Santa Cruz,1993,1972
+Santa Cruz,1994,1929
+Santa Cruz,1995,1976
+Santa Cruz,1996,1956
+Santa Cruz,1997,1865
+Santa Cruz,1998,1929
+Santa Cruz,1999,1919
+Santa Cruz,2000,1959
+Santa Cruz,2001,1979
+Santa Cruz,2002,1878
+Santa Cruz,2003,2021
+Santa Cruz,2004,1816
+Santa Cruz,2005,1835
+Santa Cruz,2006,1766
+Santa Cruz,2007,1825
+Santa Cruz,2008,1843
+Santa Cruz,2009,1938
+Santa Cruz,2010,1806
+Santa Cruz,2011,1964
+Santa Cruz,2012,1953
+Santa Cruz,2013,2002
+Santa Cruz,2014,1980
+Santa Cruz,2015,2057
+Santa Cruz,2016,2029
+Santa Cruz,2017,2060
+Santa Cruz,2018,2007
+Santa Cruz,2019,2081
+Santa Cruz,2020,2221
+Santa Cruz,2021,2340
+Solano,1989,2799
+Solano,1990,2747
+Solano,1991,2901
+Solano,1992,3006
+Solano,1993,3037
+Solano,1994,3012
+Solano,1995,3168
+Solano,1996,3351
+Solano,1997,3210
+Solano,1998,3295
+Solano,1999,3231
+Solano,2000,3497
+Solano,2001,3297
+Solano,2002,3436
+Solano,2003,3544
+Solano,2004,3382
+Solano,2005,3577
+Solano,2006,3530
+Solano,2007,3568
+Solano,2008,3484
+Solano,2009,3560
+Solano,2010,3710
+Solano,2011,3587
+Solano,2012,3700
+Solano,2013,3815
+Solano,2014,3905
+Solano,2015,4027
+Solano,2016,4149
+Solano,2017,4380
+Solano,2018,4435
+Solano,2019,4355
+Solano,2020,4741
+Solano,2021,5091
+Sonoma,1989,3455
+Sonoma,1990,3422
+Sonoma,1991,3570
+Sonoma,1992,3576
+Sonoma,1993,3745
+Sonoma,1994,3768
+Sonoma,1995,3725
+Sonoma,1996,3916
+Sonoma,1997,4076
+Sonoma,1998,3958
+Sonoma,1999,4029
+Sonoma,2000,4134
+Sonoma,2001,4217
+Sonoma,2002,4213
+Sonoma,2003,4296
+Sonoma,2004,3902
+Sonoma,2005,3997
+Sonoma,2006,3973
+Sonoma,2007,4040
+Sonoma,2008,4061
+Sonoma,2009,4154
+Sonoma,2010,4291
+Sonoma,2011,4124
+Sonoma,2012,4216
+Sonoma,2013,4396
+Sonoma,2014,4267
+Sonoma,2015,4510
+Sonoma,2016,4544
+Sonoma,2017,4642
+Sonoma,2018,4427
+Sonoma,2019,4522
+Sonoma,2020,4850
+Sonoma,2021,5007
